@@ -5,7 +5,3 @@
 [submodule "easybio"]
 	path = easybio
 	url = https://github.com/person-c/easybio
-[submodule "r4msigdb"]
-	path = r4msigdb
-	url = https://github.com/person-c/r4msigdb
-	registered = false
